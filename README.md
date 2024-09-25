@@ -1,0 +1,2 @@
+# sistem-dedi
+untuk belajar 
